@@ -1,12 +1,5 @@
-<!-- 顶部渐变波浪头图，移除闪烁动画避免加载失败 -->
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=335588,554488&height=230&section=header&text=Hi, I'm Java Backend Developer&fontSize=58&desc=专注高并发后端 | 分布式开发 | 开源爱好者&descSize=22"/>
-</p>
-
-<!-- 动态打字机 -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=680&color=94b8d9&lines=Java 后端搬砖人;Spring全家桶深度使用者;分布式/中间件爱好者;持续深耕性能优化;欢迎Star & 交流✨"/>
-</p>
+<h1 align="center">Hi, I'm Java Backend Developer</h1>
+<p align="center">专注高并发后端 | 分布式开发 | 开源爱好者</p>
 
 <br>
 <hr style="width:70%;margin:30px auto;border:1px solid #444858;">
@@ -23,10 +16,6 @@
 <p align="center">
 <img width="43%" src="https://github-readme-stats.vercel.app/api?username=Xstly1014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xstly1014&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xstly1014&theme=github-dark&bg_color=00000000"/>
 </p>
 
 <p align="center" style="margin-top:12px">
@@ -75,10 +64,4 @@
 <a href="mailto:1125448766@qq.com">
 <img src="https://img.shields.io/badge/Email-222222?style=flat-square&logo=gmail&logoColor=d14836"/>
 </a>
-</p>
-
-<br>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=554488,335588&height=120&section=footer&text=Code Every Day | Java Backend Forever&fontSize=28"/>
 </p>
