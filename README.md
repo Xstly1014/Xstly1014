@@ -1,151 +1,101 @@
 <div align="center">
 
-```
-██████╗ ██╗   ██╗ ██████╗      ██╗██╗ █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗ █████╗
-██╔════╝ ██║   ██║██╔═══██╗     ██║██║██╔══██╗████╗  ██║██║  ██║██║   ██║██╔══██╗
-██║  ███╗██║   ██║██║   ██║     ██║██║███████║██╔██╗ ██║███████║██║   ██║███████║
-██║   ██║██║   ██║██║   ██║██   ██║██║██╔══██║██║╚██╗██║██╔══██║██║   ██║██╔══██║
-╚██████╔╝╚██████╔╝╚██████╔╝╚█████╔╝██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝██║  ██║
- ╚═════╝  ╚═════╝  ╚═════╝  ╚════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yuuki&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Java%20Backend%20·%20AI%20Infra%20·%20Distributed%20Systems&descAlignY=68&descSize=18" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=🚀+寻找+Java+后端开发实习;⚡+高并发+%2F+分布式+%2F+AI+工程;🌙+能在故障中自愈的系统才算完成" alt="typing" />
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="36%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🌸 About Me
+
+```yaml
+id       : Yuuki
+school   : 深圳大学 · 计算机技术 硕士
+status   : 寻找 Java 后端实习 ← open
+passion  : 把每个系统决策都想清楚
+weakness : Valorant 单排（gold/plat 炼狱）
 ```
 
-*Java Backend Engineer · AI Infra Enthusiast · Occasional Gamer*
+不喜欢「先跑起来再说」  
+然后再也没有再说的那种工程。
+
+<br clear="right"/>
+
+---
+
+### ⚔️ 技术等级
+
+> 技能点分配（满级 SSR）
+
+<div align="center">
+
+![](https://geps.dev/progress/95?dangerColor=6C63FF&warningColor=A78BFA&successColor=A78BFA)　**Java 21 & JVM**　`虚拟线程 · GC调优 · JUC`
+
+![](https://geps.dev/progress/92?dangerColor=6C63FF&warningColor=A78BFA&successColor=A78BFA)　**Spring 生态**　`Boot 4.0 · Spring AI · AOP`
+
+![](https://geps.dev/progress/88?dangerColor=6C63FF&warningColor=9333EA&successColor=9333EA)　**MySQL & Redis**　`InnoDB · MVCC · Redisson`
+
+![](https://geps.dev/progress/85?dangerColor=6C63FF&warningColor=9333EA&successColor=9333EA)　**Kafka & 消息队列**　`高可靠 · 死信 · 幂等`
+
+![](https://geps.dev/progress/80?dangerColor=6C63FF&warningColor=7C3AED&successColor=7C3AED)　**AI 工程化**　`RAG · Agent · MCP`
+
+![](https://geps.dev/progress/75?dangerColor=6C63FF&warningColor=7C3AED&successColor=7C3AED)　**可观测性**　`Prometheus · Grafana · Loki`
+
+![](https://geps.dev/progress/70?dangerColor=6C63FF&warningColor=6D28D9&successColor=6D28D9)　**Valorant 单排**　`金/铂金 · 持续努力中`
 
 </div>
 
 ---
 
-```bash
-$ whoami
-```
+<img align="left" width="36%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-```
-NAME    : 郭剑华 (Yuuki)
-STATUS  : M.S. Computer Technology @ Shenzhen University
-FOCUS   : Java Backend · Distributed Systems · AI Engineering
-UPTIME  : 24 years, still no major memory leaks detected
-```
+<br/><br/>
 
----
+### 🛠️ 技术栈
 
-```bash
-$ cat /proc/tech_stack
-```
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/ES-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**Core Runtime**
-```
-Java 21 ──────────────────────── [████████████████████] 100%  ← virtual threads enjoyer
-Spring Boot / Spring AI ────────── [███████████████████░]  95%
-JVM Internals & GC Tuning ──────── [████████████████░░░░]  80%
-```
+<br/><br/><br/>
 
-**Storage & Messaging**
-```
-MySQL (InnoDB · MVCC · slow log)── [████████████████████] 100%
-Redis (Redisson · consistency)───── [███████████████████░]  95%
-Kafka / RabbitMQ ────────────────── [█████████████████░░░]  85%
-```
-
-**AI Engineering**
-```
-RAG Pipeline (hybrid retrieval) ─── [████████████████░░░░]  80%
-Agent Orchestration (MCP · tools)── [███████████████░░░░░]  75%
-LLM Structured Output Wrangling ─── [██████████████████░░]  90%  ← pain-driven expertise
-```
-
-**Infra**
-```
-Docker · Linux · Git ─────────────── [████████████████████] 100%
-Prometheus · Grafana · Loki ──────── [█████████████░░░░░░░]  65%
-```
+<br clear="left"/>
 
 ---
 
-```bash
-$ ls -la ~/projects/
-```
+### 📊 Stats
 
-```
-drwxr-xr-x  multimodal-interview-coach/   # Spring Boot 4.0 · Java 21 · Spring AI
-                                           # ASR → LLM → TTS real-time voice pipeline
-                                           # Redis Stream async orchestration
-                                           # RAG + adaptive retrieval
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=A78BFA&title_color=A78BFA&ring_color=6C63FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
+</div>
 
-drwxr-xr-x  hicity/                       # High-concurrency local services platform
-                                           # Seckill · Lua atomic ops · Canal/Kafka CDC
-                                           # Hybrid RAG · Agent with IDOR protection
-                                           # Multi-tenant AI customer service
-
-drwxr-xr-x  flashrank/                    # [WIP] Real-time esports leaderboard
-                                           # Target: 50,000+ peak QPS
-                                           # Because "hello world" is overrated
-```
-
----
-
-```bash
-$ tail -f /var/log/currently_thinking_about.log
-```
-
-```
-[INFO]  Distributed systems edge cases that only appear at 3am in production
-[INFO]  Whether my GC pause is <10ms or just Schrödinger's latency
-[INFO]  The philosophical gap between "it works locally" and "it works"
-[WARN]  FlashRank QPS target: ambitious. Timeline: also ambitious.
-[DEBUG] Valorant rank: Gold/Platinum. Solo queue: still blaming teammates.
-```
-
----
-
-```bash
-$ ping interests --count 4
-```
-
-```
-PING distributed-systems: 0ms RTT (always thinking about it)
-PING valorant:            12ms RTT (peak performance, average result)
-PING esports:             5ms RTT (spectating > playing sometimes)
-PING graph-neural-nets:  200ms RTT (hypergraph NNs hit different)
-```
-
----
-
-```bash
-$ cat /etc/philosophy.conf
-```
-
-> *"The best fault tolerance is the one you designed before the fault."*
->
-> *"RAG without re-ranking is just expensive keyword search with extra steps."*
->
-> *"Virtual threads didn't change Java. They just made my thread-pool anxiety go away."*
-
----
-
-```bash
-$ cat contact.txt
-```
-
-```
-EMAIL  : 1125448766@qq.com
-PHONE  : 13068735575
-SCHOOL : Shenzhen University
-OPEN TO: Java Backend Internships · Distributed Systems · AI Infra roles
-
-# Particularly interested in: ByteDance, Tencent, and anywhere
-# the systems are interesting enough to keep me awake at night.
-# (They already do. This is not a complaint.)
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0d1117&color=A78BFA&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+</div>
 
 ---
 
 <div align="center">
 
-```
-[SYSTEM] All services nominal. Accepting new connections.
-[SYSTEM] SYN received. SYN-ACK sent. Awaiting your ACK.
-```
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
 
-*uptime: continuous · last reboot: never needed one*
+[![Email](https://img.shields.io/badge/联系我-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1125448766@qq.com)
+
+*「分布式系统里没有银弹，但有些人比银弹更稳。」*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
