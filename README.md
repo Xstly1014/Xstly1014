@@ -20,12 +20,12 @@
 
 ## 📊 个人数据面板
 <p align="center">
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=你的Github用户名&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=donut&theme=radical&hide_border=true"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=Xstly1014&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xstly1014&layout=donut&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=你的Github用户名&theme=react-dark&bg_color=00000000"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xstly1014&theme=react-dark&bg_color=00000000"/>
 </p>
 
 <br>
@@ -66,15 +66,15 @@
 
 ## 👀 访客统计
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=你的Github用户名&label=主页访客&color=ff4499&style=plastic"/>
+<img src="https://komarev.com/ghpvc/?username=Xstly1014&label=主页访客&color=ff4499&style=plastic"/>
 </p>
 
 ## 📬 联系方式
 <p align="center">
-<a href="https://github.com/你的Github用户名">
+<a href="https://github.com/Xstly1014">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:你的邮箱@xxx.com">
+<a href="mailto:1125448766@qq.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
