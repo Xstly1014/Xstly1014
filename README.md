@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle" align="center">
 
 ### 🌸 About Me
 
@@ -28,7 +28,7 @@ weakness : Valorant 单排（gold/plat 炼狱）
 然后再也没有再说的那种工程。
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
 
@@ -79,14 +79,47 @@ weakness : Valorant 单排（gold/plat 炼狱）
 
 ### 📊 Stats
 
+> 需要再配置一个 Action 生成 profile summary cards，步骤见下方 👇
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=6C63FF&currStreakLabel=A78BFA" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&langs_count=6" />
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
+
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%"/>
 
 </div>
+
+<details>
+<summary>📌 Stats 卡片配置方法（点击展开）</summary>
+
+在 `.github/workflows/snake.yml` 里追加这个 job（和 generate job 并列）：
+
+```yaml
+  profile-summary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: profile-summary-card-output
+          destination_dir: profile-summary-card-output
+          force_orphan: false
+```
+
+保存后手动触发一次 Action，生成后删掉这个 `<details>` 块即可。
+
+</details>
 
 ---
 
