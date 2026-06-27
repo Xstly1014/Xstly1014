@@ -16,10 +16,19 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160"/>
 </td>
 <td width="50%" align="center" valign="middle">
+
 <h3>🌸 About Me</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=99999&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=110&lines=id+++++++%3A+Yuuki;school++%3A+%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF+%E7%A1%95%E5%A3%AB;status++%3A+%E5%AF%BB%E6%89%BE+Java+%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0+%E2%86%90+open;passion+%3A+%E6%8A%8A%E6%AF%8F%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%86%B3%E7%AD%96%E9%83%BD%E6%83%B3%E6%B8%85%E6%A5%9A;game+++%3A+Valorant+gold%2Fplat+%E7%82%BC%E7%8B%B1" alt="about"/>
-<br/>
-<p align="center">不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。</p>
+
+<pre>
+id       : Yuuki
+school   : 深圳大学 · 计算机技术 硕士
+status   : 寻找 Java 后端实习 ← open
+passion  : 把每个系统决策都想清楚
+game     : Valorant gold/plat 炼狱
+</pre>
+
+<p>不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。</p>
+
 </td>
 <td width="25%" align="center" valign="middle">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
@@ -86,43 +95,30 @@
 
 <table>
 <tr>
-<td align="center">
-<a href="https://music.163.com/#/album?id=79721059">
-<img src="https://p1.music.126.net/DTHTo7OEPqJL3sSp8U3jiA==/109951163699618094.jpg" width="130" height="130"/>
-</a>
-<br/><b>迷雾之子</b>
-<br/><sub>2017 · EP</sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album1.jpg" width="120" height="120"/>
+<br/><b>迷雾之子</b><br/><sub>2017 · EP</sub>
 </td>
-<td align="center">
-<a href="https://music.163.com/#/album?id=83008536">
-<img src="https://p1.music.126.net/Jp9gFPJBoFLaSR8nEFX8Kw==/109951164068913664.jpg" width="130" height="130"/>
-</a>
-<br/><b>我肯定在几百年前就说过爱你</b>
-<br/><sub>2019 · 专辑</sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album2.jpg" width="120" height="120"/>
+<br/><b>我肯定在几百年前<br/>就说过爱你</b><br/><sub>2019 · 专辑</sub>
 </td>
-<td align="center">
-<a href="https://music.163.com/#/album?id=113846511">
-<img src="https://p1.music.126.net/fFzXFSbSMEbRV7Hhpn8HVA==/109951165901183071.jpg" width="130" height="130"/>
-</a>
-<br/><b>运气来得若有似无</b>
-<br/><sub>2020 · 专辑</sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album3.jpg" width="120" height="120"/>
+<br/><b>运气来得若有似无</b><br/><sub>2020 · 专辑</sub>
 </td>
-<td align="center">
-<a href="https://music.163.com/#/album?id=175685704">
-<img src="https://p1.music.126.net/Pt5E5j4mz5Nl3YF_VKlmLg==/109951168906890892.jpg" width="130" height="130"/>
-</a>
-<br/><b>带你飞</b>
-<br/><sub>2023 · 专辑</sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album4.jpg" width="120" height="120"/>
+<br/><b>带你飞</b><br/><sub>2023 · 专辑</sub>
 </td>
-<td align="center">
-<a href="https://music.163.com/#/album?id=264706879">
-<img src="https://p1.music.126.net/rGpJMBOlUiIBXD1kSRJbQg==/109951170292478594.jpg" width="130" height="130"/>
-</a>
-<br/><b>我们就像那些要命的傻瓜</b>
-<br/><sub>2025 · 专辑</sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album5.jpg" width="120" height="120"/>
+<br/><b>我们就像那些<br/>要命的傻瓜</b><br/><sub>2025 · 专辑</sub>
 </td>
 </tr>
 </table>
+
+> 📌 **专辑封面设置方法**：在仓库根目录新建 `assets/` 文件夹，把五张专辑封面依次命名为 `album1.jpg` ~ `album5.jpg` 上传即可自动显示。
 
 </div>
 
