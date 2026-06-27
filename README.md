@@ -12,21 +12,16 @@
 
 <table>
 <tr>
-<td width="55%" valign="middle" align="center">
+<td width="55%" valign="middle">
+<div align="center">
 
-### 🌸 About Me
+<h3>🌸 About Me</h3>
 
-```yaml
-id       : Yuuki
-school   : 深圳大学 · 计算机技术 硕士
-status   : 寻找 Java 后端实习 ← open
-passion  : 把每个系统决策都想清楚
-weakness : Valorant 单排（gold/plat 炼狱）
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&size=14&pause=99999&color=A78BFA&center=true&vCenter=true&width=360&height=120&lines=id+++++++%3A+Yuuki;school++++%3A+%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF+%E7%A1%95%E5%A3%AB;status++++%3A+%E5%AF%BB%E6%89%BE+Java+%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0+%E2%86%90+open;passion+++%3A+%E6%8A%8A%E6%AF%8F%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%86%B3%E7%AD%96%E9%83%BD%E6%83%B3%E6%B8%85%E6%A5%9A;weakness+%3A+Valorant+%E5%8D%95%E6%8E%92%EF%BC%88gold%2Fplat+%E7%82%BC%E7%8B%B1%EF%BC%89" alt="about"/>
 
-不喜欢「先跑起来再说」  
-然后再也没有再说的那种工程。
+<p>不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。</p>
 
+</div>
 </td>
 <td width="45%" valign="middle" align="center">
 
@@ -77,49 +72,33 @@ weakness : Valorant 单排（gold/plat 炼狱）
 
 ---
 
-### 📊 Stats
+### 🌀 贡献图
 
-> 需要再配置一个 Action 生成 profile summary cards，步骤见下方 👇
+<div align="center">
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+### 💬 随机一句话
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
-
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%"/>
+[![readme-jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
 
 </div>
 
-<details>
-<summary>📌 Stats 卡片配置方法（点击展开）</summary>
+---
 
-在 `.github/workflows/snake.yml` 里追加这个 job（和 generate job 并列）：
+### 🎵 最近在听
 
-```yaml
-  profile-summary:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: profile-summary-card-output
-          destination_dir: profile-summary-card-output
-          force_orphan: false
-```
+<div align="center">
 
-保存后手动触发一次 Action，生成后删掉这个 `<details>` 块即可。
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=请填写你的SpotifyUID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=A78BFA&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=请填写你的SpotifyUID&redirect=true)
 
-</details>
+> 没有 Spotify？把这块删掉就好，或者换成你喜欢的网易云歌单截图 🎶
+
+</div>
 
 ---
 
