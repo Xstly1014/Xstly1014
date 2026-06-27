@@ -84,53 +84,12 @@ weakness : Valorant 单排（gold/plat 炼狱）
 
 <div align="center">
 
-<!-- 蛇图：需要先配置 Action，生成后取消注释这行，把 YourUsername 替换掉 -->
 <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<!-- streak stats：用 git.io 这个备用域名，相对稳定 -->
 <img width="49%" src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=6C63FF&currStreakLabel=A78BFA" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&langs_count=6" />
 
 </div>
-
-<details>
-<summary>📌 贡献蛇图配置方法（点击展开）</summary>
-
-1. 在你的同名仓库（`YourUsername/YourUsername`）创建 `.github/workflows/snake.yml`：
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. 手动触发一次 Action，生成后取消注释 README 里的蛇图那行即可。
-
-</details>
-
----
-
-<div align="center">
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
 
