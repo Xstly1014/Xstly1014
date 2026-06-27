@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yuuki&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Java%20Backend%20·%20AI%20Infra%20·%20Distributed%20Systems&descAlignY=68&descSize=18" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=🚀+寻找+Java+后端开发实习;⚡+高并发+%2F+分布式+%2F+AI+工程;🌙+能在故障中自愈的系统才算完成" alt="typing" />
+<!-- typing: 换用 io 域名，更稳定 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=%F0%9F%9A%80+%E5%AF%BB%E6%89%BE+Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%3B%E2%9A%A1+%E9%AB%98%E5%B9%B6%E5%8F%91+%2F+%E5%88%86%E5%B8%83%E5%BC%8F+%2F+AI+%E5%B7%A5%E7%A8%8B%3B%F0%9F%8C%99+%E8%83%BD%E5%9C%A8%E6%95%85%E9%9A%9C%E4%B8%AD%E8%87%AA%E6%84%88%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%89%8D%E7%AE%97%E5%AE%8C%E6%88%90" alt="typing" />
 
 </div>
 
@@ -81,15 +80,53 @@ weakness : Valorant 单排（gold/plat 炼狱）
 
 ### 📊 Stats
 
+> 贡献蛇图需要配置一个 GitHub Action 自动生成，见下方说明 👇
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=A78BFA&title_color=A78BFA&ring_color=6C63FF&include_all_commits=true&count_private=true" />
+<!-- 蛇图：需要先配置 Action，生成后取消注释这行，把 YourUsername 替换掉 -->
+<!-- <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0d1117&color=A78BFA&line=6C63FF&point=C4B5FD&area=true&area_color=6C63FF&hide_border=true" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<!-- streak stats：用 git.io 这个备用域名，相对稳定 -->
+<img width="49%" src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=6C63FF&currStreakLabel=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&langs_count=6" />
 
 </div>
+
+<details>
+<summary>📌 贡献蛇图配置方法（点击展开）</summary>
+
+1. 在你的同名仓库（`YourUsername/YourUsername`）创建 `.github/workflows/snake.yml`：
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. 手动触发一次 Action，生成后取消注释 README 里的蛇图那行即可。
+
+</details>
 
 ---
 
