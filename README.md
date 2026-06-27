@@ -16,9 +16,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160"/>
 </td>
 <td width="50%" align="center" valign="middle">
-
 <h3>🌸 About Me</h3>
-
 <pre>
 id       : Yuuki
 school   : 深圳大学 · 计算机技术 硕士
@@ -26,16 +24,13 @@ status   : 寻找 Java 后端实习 ← open
 passion  : 把每个系统决策都想清楚
 game     : Valorant gold/plat 炼狱
 </pre>
-
 <p>不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。</p>
-
 </td>
 <td width="25%" align="center" valign="middle">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
 </td>
 </tr>
 </table>
-
 ---
 
 ### ⚔️ 技能等级
