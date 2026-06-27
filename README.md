@@ -85,7 +85,7 @@ weakness : Valorant 单排（gold/plat 炼狱）
 <div align="center">
 
 <!-- 蛇图：需要先配置 Action，生成后取消注释这行，把 YourUsername 替换掉 -->
-<!-- <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <!-- streak stats：用 git.io 这个备用域名，相对稳定 -->
 <img width="49%" src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=6C63FF&currStreakLabel=A78BFA" />
