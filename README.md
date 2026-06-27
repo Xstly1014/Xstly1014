@@ -12,21 +12,26 @@
 
 <table>
 <tr>
-<td width="55%" valign="middle">
-<div align="center">
-
-<h3>🌸 About Me</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&size=14&pause=99999&color=A78BFA&center=true&vCenter=true&width=360&height=120&lines=id+++++++%3A+Yuuki;school++++%3A+%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF+%E7%A1%95%E5%A3%AB;status++++%3A+%E5%AF%BB%E6%89%BE+Java+%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0+%E2%86%90+open;passion+++%3A+%E6%8A%8A%E6%AF%8F%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%86%B3%E7%AD%96%E9%83%BD%E6%83%B3%E6%B8%85%E6%A5%9A;weakness+%3A+Valorant+%E5%8D%95%E6%8E%92%EF%BC%88gold%2Fplat+%E7%82%BC%E7%8B%B1%EF%BC%89" alt="about"/>
-
-<p>不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。</p>
-
-</div>
+<td width="33%" valign="middle" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
 </td>
-<td width="45%" valign="middle" align="center">
+<td width="34%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+**🌸 About Me**
 
+```yaml
+id       : Yuuki
+school   : 深圳大学 · 计算机技术 硕士
+status   : 寻找 Java 后端实习 ← open
+passion  : 把每个系统决策都想清楚
+weakness : Valorant 单排（gold/plat 炼狱）
+```
+
+不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。
+
+</td>
+<td width="33%" valign="middle" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 </td>
 </tr>
 </table>
@@ -80,23 +85,36 @@
 
 ---
 
-### 💬 随机一句话
+### 🎵 最近在听 · 告五人
 
 <div align="center">
 
-[![readme-jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
+*「宇宙的有趣，我才不在意」*
 
-</div>
-
----
-
-### 🎵 最近在听
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=请填写你的SpotifyUID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=A78BFA&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=请填写你的SpotifyUID&redirect=true)
-
-> 没有 Spotify？把这块删掉就好，或者换成你喜欢的网易云歌单截图 🎶
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://p2.music.126.net/DTHTo7OEPqJL3sSp8U3jiA==/109951163699618094.jpg" width="120" style="border-radius:8px"/><br/>
+<sub><b>迷雾之子</b></sub><br/>
+<sub>2017 · EP</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://p2.music.126.net/Jp9gFPJBoFLaSR8nEFX8Kw==/109951164068913664.jpg" width="120" style="border-radius:8px"/><br/>
+<sub><b>我肯定在几百年前就说过爱你</b></sub><br/>
+<sub>2019 · 专辑</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://p2.music.126.net/fFzXFSbSMEbRV7Hhpn8HVA==/109951165901183071.jpg" width="120" style="border-radius:8px"/><br/>
+<sub><b>运气来得若有似无</b></sub><br/>
+<sub>2020 · 专辑</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://p2.music.126.net/Pt5E5j4mz5Nl3YF_VKlmLg==/109951168906890892.jpg" width="120" style="border-radius:8px"/><br/>
+<sub><b>带你飞</b></sub><br/>
+<sub>2023 · 专辑</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
