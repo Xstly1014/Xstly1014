@@ -1,81 +1,151 @@
 <div align="center">
-  <h1 style="border:2px solid #8490ff; padding:12px 40px; border-radius:12px; background:#191b29;">
-    Hi, I'm Java Backend Developer
-  </h1>
-  <p style="color:#a0a8d8; font-size:16px;">
-    专注高并发后端 | 分布式开发 | 开源爱好者
-  </p>
+
+```
+██████╗ ██╗   ██╗ ██████╗      ██╗██╗ █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗ █████╗
+██╔════╝ ██║   ██║██╔═══██╗     ██║██║██╔══██╗████╗  ██║██║  ██║██║   ██║██╔══██╗
+██║  ███╗██║   ██║██║   ██║     ██║██║███████║██╔██╗ ██║███████║██║   ██║███████║
+██║   ██║██║   ██║██║   ██║██   ██║██║██╔══██║██║╚██╗██║██╔══██║██║   ██║██╔══██║
+╚██████╔╝╚██████╔╝╚██████╔╝╚█████╔╝██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝██║  ██║
+ ╚═════╝  ╚═════╝  ╚═════╝  ╚════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+*Java Backend Engineer · AI Infra Enthusiast · Occasional Gamer*
+
 </div>
 
-<br>
-<div style="width:75%; margin:0 auto; height:2px; background:linear-gradient(to right, transparent, #7282ff, transparent);"></div>
-<br>
+---
 
-## 📜 Profile 人物档案
-<div style="border:1px solid #5562bb; border-radius:10px; padding:16px; background:#16182680;">
-- 后端开发，主力技术栈 **Java / SpringBoot / SpringCloud**
-- 擅长：微服务架构、高并发接口、MySQL调优、缓存设计、消息队列
-- 日常开发依赖：MySQL、Redis、RabbitMQ、Docker、Kafka、Elasticsearch
-</div>
+```bash
+$ whoami
+```
 
-<br>
-<div style="width:75%; margin:0 auto; height:2px; background:linear-gradient(to right, transparent, #7282ff, transparent);"></div>
-<br>
+```
+NAME    : 郭剑华 (Yuuki)
+STATUS  : M.S. Computer Technology @ Shenzhen University
+FOCUS   : Java Backend · Distributed Systems · AI Engineering
+UPTIME  : 24 years, still no major memory leaks detected
+```
 
-## 📊 Status 状态面板
-<p align="center">
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=Xstly1014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10122000"/>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xstly1014&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Xstly1014&label=访客数&color=8490ff&style=flat-square"/>
-</p>
+```bash
+$ cat /proc/tech_stack
+```
 
-<br>
-<div style="width:75%; margin:0 auto; height:2px; background:linear-gradient(to right, transparent, #7282ff, transparent);"></div>
-<br>
+**Core Runtime**
+```
+Java 21 ──────────────────────── [████████████████████] 100%  ← virtual threads enjoyer
+Spring Boot / Spring AI ────────── [███████████████████░]  95%
+JVM Internals & GC Tuning ──────── [████████████████░░░░]  80%
+```
 
-## ⚔️ Skill 技能树
-<div align="center" style="border:1px solid #5562bb; border-radius:10px; padding:18px; background:#16182680;">
-<p>
-<img src="https://img.shields.io/badge/Java-191b29?style=flat-square&logo=openjdk&logoColor=f08705"/>
-<img src="https://img.shields.io/badge/SpringBoot-191b29?style=flat-square&logo=springboot&logoColor=6db33f"/>
-<img src="https://img.shields.io/badge/SpringCloud-191b29?style=flat-square&logo=spring&logoColor=6db33f"/>
-<img src="https://img.shields.io/badge/MyBatis-191b29?style=flat-square&logo=mybatis&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MyBatis--Plus-191b29?style=flat-square&logoColor=39c939"/>
-</p>
+**Storage & Messaging**
+```
+MySQL (InnoDB · MVCC · slow log)── [████████████████████] 100%
+Redis (Redisson · consistency)───── [███████████████████░]  95%
+Kafka / RabbitMQ ────────────────── [█████████████████░░░]  85%
+```
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-191b29?style=flat-square&logo=mysql&logoColor=4479a1"/>
-<img src="https://img.shields.io/badge/Redis-191b29?style=flat-square&logo=redis&logoColor=dc382d"/>
-<img src="https://img.shields.io/badge/MongoDB-191b29?style=flat-square&logo=mongodb&logoColor=47a248"/>
-</p>
+**AI Engineering**
+```
+RAG Pipeline (hybrid retrieval) ─── [████████████████░░░░]  80%
+Agent Orchestration (MCP · tools)── [███████████████░░░░░]  75%
+LLM Structured Output Wrangling ─── [██████████████████░░]  90%  ← pain-driven expertise
+```
 
-<p>
-<img src="https://img.shields.io/badge/RabbitMQ-191b29?style=flat-square&logo=rabbitmq&logoColor=ff6600"/>
-<img src="https://img.shields.io/badge/Kafka-191b29?style=flat-square&logo=apachekafka&logoColor=dddddd"/>
-<img src="https="img.shields.io/badge/ElasticSearch-191b29?style=flat-square&logo=elasticsearch&logoColor=005571"/>
-</p>
+**Infra**
+```
+Docker · Linux · Git ─────────────── [████████████████████] 100%
+Prometheus · Grafana · Loki ──────── [█████████████░░░░░░░]  65%
+```
 
-<p>
-<img src="https://img.shields.io/badge/Docker-191b29?style=flat-square&logo=docker&logoColor=2496ed"/>
-<img src="https://img.shields.io/badge/K8s-191b29?style=flat-square&logo=kubernetes&logoColor=326ce5"/>
-<img src="https="img.shields.io/badge/Git-191b29?style=flat-square&logo=git&logoColor=f05032"/>
-<img src="https="img.shields.io/badge/Maven-191b29?style=flat-square&logo=apachemaven&logoColor=c71a36"/>
-</p>
-</div>
+---
 
-<br>
-<div style="width:75%; margin:0 auto; height:2px; background:linear-gradient(to right, transparent, #7282ff, transparent);"></div>
-<br>
+```bash
+$ ls -la ~/projects/
+```
 
-## 📮 Mail 联络终端
-<div align="center" style="border:1px solid #5562bb; border-radius:10px; padding:16px; background:#16182680;">
-<a href="https://github.com/Xstly1014">
-<img src="https://img.shields.io/badge/GitHub-191b29?style=flat-square&logo=github&logoColor=eeeeee"/>
-</a>
-<a href="mailto:1125448766@qq.com">
-<img src="https://img.shields.io/badge/Email-191b29?style=flat-square&logo=gmail&logoColor=d14836"/>
-</a>
+```
+drwxr-xr-x  multimodal-interview-coach/   # Spring Boot 4.0 · Java 21 · Spring AI
+                                           # ASR → LLM → TTS real-time voice pipeline
+                                           # Redis Stream async orchestration
+                                           # RAG + adaptive retrieval
+
+drwxr-xr-x  hicity/                       # High-concurrency local services platform
+                                           # Seckill · Lua atomic ops · Canal/Kafka CDC
+                                           # Hybrid RAG · Agent with IDOR protection
+                                           # Multi-tenant AI customer service
+
+drwxr-xr-x  flashrank/                    # [WIP] Real-time esports leaderboard
+                                           # Target: 50,000+ peak QPS
+                                           # Because "hello world" is overrated
+```
+
+---
+
+```bash
+$ tail -f /var/log/currently_thinking_about.log
+```
+
+```
+[INFO]  Distributed systems edge cases that only appear at 3am in production
+[INFO]  Whether my GC pause is <10ms or just Schrödinger's latency
+[INFO]  The philosophical gap between "it works locally" and "it works"
+[WARN]  FlashRank QPS target: ambitious. Timeline: also ambitious.
+[DEBUG] Valorant rank: Gold/Platinum. Solo queue: still blaming teammates.
+```
+
+---
+
+```bash
+$ ping interests --count 4
+```
+
+```
+PING distributed-systems: 0ms RTT (always thinking about it)
+PING valorant:            12ms RTT (peak performance, average result)
+PING esports:             5ms RTT (spectating > playing sometimes)
+PING graph-neural-nets:  200ms RTT (hypergraph NNs hit different)
+```
+
+---
+
+```bash
+$ cat /etc/philosophy.conf
+```
+
+> *"The best fault tolerance is the one you designed before the fault."*
+>
+> *"RAG without re-ranking is just expensive keyword search with extra steps."*
+>
+> *"Virtual threads didn't change Java. They just made my thread-pool anxiety go away."*
+
+---
+
+```bash
+$ cat contact.txt
+```
+
+```
+EMAIL  : 1125448766@qq.com
+PHONE  : 13068735575
+SCHOOL : Shenzhen University
+OPEN TO: Java Backend Internships · Distributed Systems · AI Infra roles
+
+# Particularly interested in: ByteDance, Tencent, and anywhere
+# the systems are interesting enough to keep me awake at night.
+# (They already do. This is not a complaint.)
+```
+
+---
+
+<div align="center">
+
+```
+[SYSTEM] All services nominal. Accepting new connections.
+[SYSTEM] SYN received. SYN-ACK sent. Awaiting your ACK.
+```
+
+*uptime: continuous · last reboot: never needed one*
+
 </div>
