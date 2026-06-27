@@ -13,8 +13,8 @@
 ## 👨‍💻 关于我
 - 后端开发，主力技术栈 **Java / SpringBoot / SpringCloud**
 - 擅长：微服务架构、高并发接口、MySQL调优、缓存设计、消息队列
-- 日常折腾：Redis、RabbitMQ、Docker、K8s、Elasticsearch
-- 爱好：写开源工具、优化代码、折腾炫酷Github主页
+- 技术栈：MySQL、Redis、RabbitMQ、Docker、Kafka、Elasticsearch...
+
 
 <br>
 
@@ -64,11 +64,6 @@
 
 <br>
 
-## 👀 访客统计
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Xstly1014&label=主页访客&color=ff4499&style=plastic"/>
-</p>
-
 ## 📬 联系方式
 <p align="center">
 <a href="https://github.com/Xstly1014">
@@ -86,10 +81,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9933ff,00ccff&height=120&section=footer&text=Code Every Day | Java Backend Forever&fontSize=28"/>
 </p>
 
-<p align="center">
-<img width="100%" src="https://你的Github用户名.github.io/你的Github用户名/snake.svg"/>
-</p>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
