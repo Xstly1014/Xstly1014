@@ -1,138 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yuuki&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Java%20Backend%20·%20AI%20Infra%20·%20Distributed%20Systems&descAlignY=68&descSize=18" width="100%"/>
+# Yuuki
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=%F0%9F%9A%80+%E5%AF%BB%E6%89%BE+Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%3B%E2%9A%A1+%E9%AB%98%E5%B9%B6%E5%8F%91+%2F+%E5%88%86%E5%B8%83%E5%BC%8F+%2F+AI+%E5%B7%A5%E7%A8%8B%3B%F0%9F%8C%99+%E8%83%BD%E5%9C%A8%E6%95%85%E9%9A%9C%E4%B8%AD%E8%87%AA%E6%84%88%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%89%8D%E7%AE%97%E5%AE%8C%E6%88%90" alt="typing" />
+Java 后端 · 分布式系统 · AI 基础设施
 
-</div>
-
-<br/>
-
----
-
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160"/>
-</td>
-<td width="50%" align="center" valign="middle">
-<h3>🌸 About Me</h3>
-<pre>
-id       : Yuuki
-school   : 深圳大学 · 计算机技术 硕士
-status   : 寻找 Java 后端实习 ← open
-passion  : 把每个系统决策都想清楚
-game     : Valorant gold/plat 炼狱
-</pre>
-<p>不喜欢「先跑起来再说」<br/>然后再也没有再说的那种工程。</p>
-</td>
-<td width="25%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
-</td>
-</tr>
-</table>
----
-
-### ⚔️ 技能等级
-
-<div align="center">
-
-| 技能 | 等级 | 标签 |
-|------|------|------|
-| Java 21 & JVM | ![](https://geps.dev/progress/95?successColor=A78BFA) | 虚拟线程 · GC调优 · JUC |
-| Spring 生态 | ![](https://geps.dev/progress/92?successColor=A78BFA) | Boot 4.0 · Spring AI · AOP |
-| MySQL & Redis | ![](https://geps.dev/progress/88?successColor=9333EA) | InnoDB · MVCC · Redisson |
-| Kafka & 消息队列 | ![](https://geps.dev/progress/85?successColor=9333EA) | 高可靠 · 死信 · 幂等 |
-| AI 工程化 | ![](https://geps.dev/progress/80?successColor=7C3AED) | RAG · Agent · MCP |
-| 可观测性 | ![](https://geps.dev/progress/75?successColor=7C3AED) | Prometheus · Grafana · Loki |
-| Valorant 单排 | ![](https://geps.dev/progress/68?successColor=6D28D9) | 金/铂金 · 持续努力中 |
+深圳大学 · 计算机技术硕士 · 寻找 Java 后端实习
 
 </div>
 
 ---
 
-### 🛠️ 技术栈
+## 专长
+
+| 领域 | 技术 |
+|:---|:---|
+| **Java 基础** | 集合框架 · IO/NIO · 反射 · 注解 · 泛型 · Stream · Lambda |
+| **并发编程** | JUC · AQS · CAS · 线程池 · 锁机制 · volatile · 并发容器 · 虚拟线程 |
+| **JVM** | 内存模型 · GC 算法 · GC 调优 · 类加载机制 · 字节码 · JIT |
+| **MySQL** | InnoDB · MVCC · 索引优化 · 执行计划 · 事务隔离 · 分库分表 |
+| **Redis** | 数据结构 · 持久化 · 主从哨兵 · Cluster · Redisson · 缓存策略 |
+| **消息队列** | Kafka · 高可靠投递 · 死信队列 · 幂等消费 · 消息顺序 · 延迟消息 |
+| **分布式** | CAP · 分布式锁 · 分布式事务 · 一致性算法 · 限流熔断 · 服务注册发现 |
+| **OS & 网络** | 进程线程 · 内存管理 · IO 模型 · TCP/IP · HTTP · 网络编程 |
+| **可观测性** | Prometheus · Grafana · Loki · 链路追踪 · 日志采集 · 指标监控 |
+| **Linux** | Shell · 进程管理 · 网络配置 · 性能诊断 · 文件系统 |
+| **Docker** | 容器化 · 镜像构建 · Compose · 网络 · 数据卷 |
+
+## 正在学习
+
+| 方向 | 内容 |
+|:---|:---|
+| **Agent 架构** | RAG · Memory · Context Engineering · Prompt Engineering |
+| **Agent 进阶** | 意图识别 · 多 Agent 协作 · 工具调用 · 任务编排 |
+| **AI 框架** | Spring AI · LangChain · LangGraph |
+
+## 技术栈
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/ES-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-### 🌀 贡献图
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
----
-
-### 🎵 最近在听 · 告五人 Accusefive
-
-<div align="center">
-
-*「宇宙的有趣，我才不在意」*
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album1.jpg" width="120" height="120"/>
-<br/><b>迷雾之子</b><br/><sub>2017 · EP</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album2.jpg" width="120" height="120"/>
-<br/><b>我肯定在几百年前<br/>就说过爱你</b><br/><sub>2019 · 专辑</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album3.jpg" width="120" height="120"/>
-<br/><b>运气来得若有似无</b><br/><sub>2020 · 专辑</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album4.jpg" width="120" height="120"/>
-<br/><b>带你飞</b><br/><sub>2023 · 专辑</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/album5.jpg" width="120" height="120"/>
-<br/><b>我们就像那些<br/>要命的傻瓜</b><br/><sub>2025 · 专辑</sub>
-</td>
-</tr>
-</table>
-
-> 📌 **专辑封面设置方法**：在仓库根目录新建 `assets/` 文件夹，把五张专辑封面依次命名为 `album1.jpg` ~ `album5.jpg` 上传即可自动显示。
-
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+[**1125448766@qq.com**](mailto:1125448766@qq.com)
 
-<br/>
-
-[![Email](https://img.shields.io/badge/联系我-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1125448766@qq.com)
-
-<br/>
-
-*「分布式系统里没有银弹，但有些人比银弹更稳。」*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+*分布式系统里没有银弹，但有些人比银弹更稳。*
 
 </div>
